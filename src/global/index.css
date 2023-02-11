@@ -3,9 +3,9 @@
 @tailwind utilities;
 
 body {
+  min-height: 100vh;
   border: 15px dashed #777777;
   border-image-slice: 30;
-  direction: rtl;
   background-image: URL('../assets/background.png');
   border-image-source: url('../assets/borda.png');
 }
