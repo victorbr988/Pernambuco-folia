@@ -12,14 +12,78 @@ export const infromationPartyCaruaru = [
 
 export const informationPartyPesqueira = [
   {
-    date: '11/02/2023',
-    title: 'Bloco 2 de Ouro',
+    date: '16/02/2023',
+    title: 'Trio e Banda Asas da América',
     type: 'Gratuito',
     value: 0,
     local: 'Bairro Centenário com destino a Baixa de São Sebastião',
     time: '12:00',
     route: 'https://www.google.com/maps/place/Centenario,+Pesqueira+-+PE,+55200-000/data=!4m2!3m1!1s0x7a831786d93fb41:0x2a053b1182916287?sa=X&ved=2ahUKEwi04rHbwI39AhW2q5UCHQ_3B4gQ8gF6BAgOEAI',
-    }
+  },
+  {
+    date: '17/02/2023',
+    title: 'Bloco da Juventude',
+    type: 'Gratuito',
+    value: 0,
+    local: 'Bairro Centenário com destino a Baixa de São Sebastião',
+    time: '12:00',
+    route: 'https://www.google.com/maps/place/Centenario,+Pesqueira+-+PE,+55200-000/data=!4m2!3m1!1s0x7a831786d93fb41:0x2a053b1182916287?sa=X&ved=2ahUKEwi04rHbwI39AhW2q5UCHQ_3B4gQ8gF6BAgOEAI',
+  },
+  {
+    date: '19/02/2023',
+    title: 'Bloco Lira da Tarde',
+    type: 'Gratuito',
+    value: 0,
+    local: 'Bairro Centenário com destino a Baixa de São Sebastião',
+    time: '12:00',
+    route: 'https://www.google.com/maps/place/Centenario,+Pesqueira+-+PE,+55200-000/data=!4m2!3m1!1s0x7a831786d93fb41:0x2a053b1182916287?sa=X&ved=2ahUKEwi04rHbwI39AhW2q5UCHQ_3B4gQ8gF6BAgOEAI',
+  },
+  {
+    date: '19/02/2023',
+    title: 'Bloco Alvirrubros em Folia',
+    type: 'Gratuito',
+    value: 0,
+    local: 'Bairro Centenário com destino a Baixa de São Sebastião',
+    time: '12:00',
+    route: 'https://www.google.com/maps/place/Centenario,+Pesqueira+-+PE,+55200-000/data=!4m2!3m1!1s0x7a831786d93fb41:0x2a053b1182916287?sa=X&ved=2ahUKEwi04rHbwI39AhW2q5UCHQ_3B4gQ8gF6BAgOEAI',
+  },
+  {
+    date: '20/02/2023',
+    title: 'Bloco Lira da Tarde',
+    type: 'Gratuito',
+    value: 0,
+    local: 'Bairro Centenário com destino a Baixa de São Sebastião',
+    time: '12:00',
+    route: 'https://www.google.com/maps/place/Centenario,+Pesqueira+-+PE,+55200-000/data=!4m2!3m1!1s0x7a831786d93fb41:0x2a053b1182916287?sa=X&ved=2ahUKEwi04rHbwI39AhW2q5UCHQ_3B4gQ8gF6BAgOEAI',
+  },
+  {
+    date: '20/02/2023',
+    title: 'Bloco Paixão Coral',
+    type: 'Gratuito',
+    value: 0,
+    local: 'Bairro Centenário com destino a Baixa de São Sebastião',
+    time: '12:00',
+    route: 'https://www.google.com/maps/place/Centenario,+Pesqueira+-+PE,+55200-000/data=!4m2!3m1!1s0x7a831786d93fb41:0x2a053b1182916287?sa=X&ved=2ahUKEwi04rHbwI39AhW2q5UCHQ_3B4gQ8gF6BAgOEAI',
+  },
+  {
+    date: '21/02/2023',
+    title: 'Bloco Lira da Tarde',
+    type: 'Gratuito',
+    value: 0,
+    local: 'Bairro Centenário com destino a Baixa de São Sebastião',
+    time: '12:00',
+    route: 'https://www.google.com/maps/place/Centenario,+Pesqueira+-+PE,+55200-000/data=!4m2!3m1!1s0x7a831786d93fb41:0x2a053b1182916287?sa=X&ved=2ahUKEwi04rHbwI39AhW2q5UCHQ_3B4gQ8gF6BAgOEAI',
+  },
+  {
+    date: '21/02/2023',
+    title: 'Bloco do Sport',
+    type: 'Gratuito',
+    value: 0,
+    local: 'Bairro Centenário com destino a Baixa de São Sebastião',
+    time: '12:00',
+    route: 'https://www.google.com/maps/place/Centenario,+Pesqueira+-+PE,+55200-000/data=!4m2!3m1!1s0x7a831786d93fb41:0x2a053b1182916287?sa=X&ved=2ahUKEwi04rHbwI39AhW2q5UCHQ_3B4gQ8gF6BAgOEAI',
+  },
+
 ]
 
 export const informationPartyGravata = [
