@@ -4,6 +4,7 @@ import { Caruaru } from "../pages/Caruaru";
 import { Gravata } from "../pages/Gravata";
 import { Home } from "../pages/Home";
 import { Pesqueira } from "../pages/Pesqueira";
+import { Garanhuns } from "../pages/Garanhuns";
 
 export function Pagination() {
   return (
@@ -13,6 +14,7 @@ export function Pagination() {
       <Route path="/bezerros" element={<Bezerros />} />
       <Route path="/pesqueira" element={<Pesqueira />} />
       <Route path="/gravata" element={<Gravata />} />
+      <Route path="/garanhuns" element={<Garanhuns />} />
     </Routes>
   )
 }

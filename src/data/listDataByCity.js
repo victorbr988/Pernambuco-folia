@@ -18,5 +18,10 @@ export const dataByCities = [
     id: 4,
     imageButton: 'https://www.pciconcursos.com.br/s/35d117cedfd42bda777d7f7ffb05d7fd.jpg',
     city: 'Gravatá'
+  },
+  {
+    id: 5,
+    imageButton: "https://garanhuns.pe.gov.br/gid/wp-content/uploads/2022/09/LOGOMARCA-PREFGARANHUNS-color-1.png",
+    city: 'Garanhuns'
   }
 ]
